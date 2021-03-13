@@ -4,6 +4,7 @@
 ### 🌱 I’m currently learning React and Angular
 <!--💞️ I’m looking to collaborate on ... -->
 ## 📫 How to reach me:
+- LinkedIn: <a href:"https://www.linkedin.com/in/tfesousa/">tfesousa</a>
 - Mail: t.f.sousa0@gmail.com
 - Phone: +55 31 99130-3878
 
