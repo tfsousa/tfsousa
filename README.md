@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Caladbol, also known as **Thaynã Ferreira de Sousa**
 
 ### 👀 I’m interested in **Front-end development** and **software engineering**
-### 🌱 I’m currently learning **React** and **Angular**
+### 🌱 I’m a **React/NextJS** and **React Native** Developer
 <!--💞️ I’m looking to collaborate on ... -->
 ## 📫 How to reach me:
 - **LinkedIn:** [tfesousa](https://www.linkedin.com/in/tfesousa/)
