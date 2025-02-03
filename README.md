@@ -1,7 +1,9 @@
-# 👋 Hi, I’m @tfsousa, also known as **Thaynã Ferreira de Sousa**
+# 👋 Hi, I’m **Thaynã Ferreira de Sousa**
+
+I am a passionate software engineer with expertise in developing robust, scalable, and efficient applications. With a strong background in Front-end development, I thrive on solving complex problems and contributing to meaningful projects. I’m always looking to expand my knowledge and collaborate with like-minded professionals.
 
 ### 👀 I’m interested in **Front-end development** and **software engineering**
-### 🌱 I’m a **React/NextJS** and **React Native** Developer
+### 🌱 I’m a JavaScript Developer
 <!--💞️ I’m looking to collaborate on ... -->
 ## 📫 How to reach me:
 - **LinkedIn:** [tfesousa](https://www.linkedin.com/in/tfesousa/)
